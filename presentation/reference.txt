@@ -1,0 +1,37 @@
+Machine learning in 17 minutes
+https://www.youtube.com/watch?v=E0Hmnixke2g
+
+Ensemble learning
+https://www.youtube.com/watch?v=ZFXD6lxm3nE
+
+Bagging code
+https://www.youtube.com/watch?v=RtrBtAKwcxQ&t=1198s
+
+https://github.com/codebasics/py/blob/master/ML/19_Bagging/bagging_diabetes_prediction.ipynb
+
+https://github.com/codebasics/py
+
+https://github.com/codebasics/py.git
+
+
+https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/
+https://www.geeksforgeeks.org/machine-learning/implementing-the-adaboost-algorithm-from-scratch/
+https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
+
+https://www.geeksforgeeks.org/machine-learning/random-forest-algorithm-in-machine-learning/
+
+
+
+Final Adaboost
+
+https://blog.dailydoseofds.com/p/a-visual-guide-to-adaboost
+https://medium.com/data-science/adaboost-classifier-explained-a-visual-guide-with-code-examples-fc0f25326d7b
+
+
+Introduction
+https://www.youtube.com/watch?v=eNyUfpGBLts
+
+Adaboost
+https://www.youtube.com/watch?v=l3DzJBb3MaE
+
+

@@ -1,0 +1,66 @@
+Agenda:
+1. Recap of ML1
+AI - Mimic Cognitive function
+ML
+Supervised
+Regression- Linear Regression
+GDP of a country - output-dependent
+
+independent variable
+population
+agricultural
+industrial
+service
+
+bestfit line
+y=mx+c
+
+linear 
+non linear
+
+Classification
+binary
+multi class
+
+dependent variable
+
+
+Unsupervised/Semi 
+Reinforcement
+
+DL
+ANN
+CNN
+RNN
+
+2. Sample programs on ML
+https://github.com/codebasics/py
+
+Program 1 -Linear regression
+Program 2 - Single variate and multivariate
+--
+Program 8 -- Classification
+
+Gradient descent  - 
+y=x*x
+
+build ml application
+
+UI
+create a model
+Test model
+fine tune model
+convert into pickle file
+
+load the pickle file to get back
+model
+create a web api
+
+
+activation functions
+sigmoid
+
+3. Getting started with ML2
+Unit 3 -Ensemble Learning
+
+
