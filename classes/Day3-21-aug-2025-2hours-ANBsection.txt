@@ -11,10 +11,12 @@ Bagging- 100 records
 30 records - 2nd model
 with replacement
 ---5 models
-
-
 Boosting - 
 2. Walk through of the algorithms
 3. Walk through of the code
 4. Unsupervised machine learning
 k-means clustering
+=SQRT(POWER((A2-D2),2)+POWER((B2-E2),2))
+=SQRT(POWER((A$2-D4),2)+POWER((B$2-E4),2))
+=SQRT(POWER((A$3-D2),2)+POWER((B$3-E2),2))
+https://www.geeksforgeeks.org/machine-learning/k-means-clustering-introduction/
