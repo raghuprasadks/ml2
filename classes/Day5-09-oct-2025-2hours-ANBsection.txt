@@ -1,0 +1,33 @@
+1. PRACTICAL COMPONENT OF IPCC
+Module 3
+3. Read a supervised dataset and use bagging and boosting technique to classify the dataset. Indicate the
+performance of the model. 
+https://github.com/raghuprasadks/ml2
+Can you clone this git
+git clone https://github.com/raghuprasadks/ml2.git
+or download programs
+https://github.com/raghuprasadks/ml2/tree/main/programs/practical-ipcc
+Steps:
+1. create folder ipcc
+2. Open in vs code
+3. open terminal
+4. create virtual environment
+python -m venv venv
+5. Activate virtual environment
+.\venv\Scripts\activate
+in case you get following error
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+
+open power shell as an administrator
+execute following script
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+Type Y
+6.copy program number 3
+7. pip install scikit-learn
+8. Execute each cell
+7. Select virtual environment (recommended)
+8. Install ipkykernal - Yes
+9. pip install pandas
+
+Program 4 - Clustering
