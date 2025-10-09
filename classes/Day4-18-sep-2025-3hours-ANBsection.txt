@@ -1,0 +1,17 @@
+Agenda:
+1. Recap of Unit 3
+Ensemble learning
+boosting
+bagging
+unsupervised machine learning
+clustering
+kmeans clustering
+2. Hands-on session boosting and bagging
+www.kaushalya.tech
+git
+repositories
+ml2
+programs
+practical-ipcc
+3_ml2_ipcc_boostingnbagging.ipynb
+

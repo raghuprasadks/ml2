@@ -1,0 +1,52 @@
+S-algorithm
+
+How to Run the Program:
+Run the Python script.
+
+The script will prompt you to enter the data instances one by one.
+
+You would enter the data exactly as it was defined previously (one row per line), and type done when finished.
+
+Example Input Sequence:
+
+Enter instance 1: >=9, Yes, Good, Good, Yes
+Enter instance 2: <9, No, Moderate, Good, Yes
+Enter instance 3: >=9, No, Moderate, Average, No
+Enter instance 4: <9, No, Moderate, Average, No
+Enter instance 5: >=9, Yes, Moderate, Good, Yes
+Enter instance 6: done
+
+The output will then show the steps of the Find-S algorithm, leading to the final hypothesis: ('?', '?', '?', 'Good').
+
+
+Candidate elimination
+
+Input Sequence Example:
+
+Enter instance 1: >=9, Yes, Good, Good, Yes
+Enter instance 2: <9, No, Moderate, Good, Yes
+Enter instance 3: >=9, No, Moderate, Average, No
+Enter instance 4: <9, No, Moderate, Average, No
+Enter instance 5: >=9, Yes, Moderate, Good, Yes
+Enter instance 6: done
+
+Expected Final Output:
+The output will show the step-by-step refinement and the final convergence:
+
+Boundary	Final Hypothesis (Tuple Format)
+Most Specific Set (S 
+final
+​
+ )	[('?', '?', '?', 'Good')]
+Most General Set (G 
+final
+​
+ )	[('?', '?', '?', 'Good')]
+
+ Interpretation:
+
+The Version Space has converged because the dataset is perfectly consistent with the hypothesis: ⟨?,?,?,Good⟩. This hypothesis states that a Job Offer is determined solely by the student having Good Practical Knowledge, making all other attributes irrelevant in this dataset.
+
+https://www.youtube.com/watch?v=O2wYwFOMQ24&t=621s
+https://www.youtube.com/watch?v=VMoPY9Wimi4
+https://www.youtube.com/watch?v=kGaR2PQfqlk
