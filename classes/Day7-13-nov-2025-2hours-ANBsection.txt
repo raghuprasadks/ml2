@@ -1,0 +1,18 @@
+Agenda
+5 Read a dataset and perform unsupervised learning using SOM algorithm. 
+
+2. Read a dataset and use an example-based method (such as RIPPER or CN2) to generate a set of
+classification rules . Apply the FOIL algorithm (First-Order Inductive Learner) to learn first-order rules
+for predicting. 
+
+create programs folder
+copy .py files into the folder
+
+cd programs
+create virtual environment
+python -m venv venv
+activate virtual environment
+venv\Scripts\activate
+pip install scikit-learn pandas matplotlib
+
+python 5-som_1-library.py
