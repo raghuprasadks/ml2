@@ -35,3 +35,5 @@ Adaboost
 https://www.youtube.com/watch?v=l3DzJBb3MaE
 
 
+Montecarlo
+https://www.geeksforgeeks.org/artificial-intelligence/what-is-monte-carlo-simulation/
